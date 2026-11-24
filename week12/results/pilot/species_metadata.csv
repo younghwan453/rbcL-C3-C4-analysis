@@ -1,0 +1,5 @@
+species_id,scientific_name,common_name,family,taxonomic_group,photosynthesis_type,photosynthesis_reference,ncbi_taxonomy_id,nucleotide_accession,protein_accession,cds_length,protein_length,download_date,source_url,validation_status
+oryza_sativa,Oryza sativa,Asian rice,Poaceae,Monocot,C3,https://doi.org/10.3389/fpls.2020.570436,4530,NC_001320.1,NP_039391.1,1434,477,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_001320.1,validated
+flaveria_pringlei,Flaveria pringlei,,Asteraceae,Eudicot,C3,https://pubmed.ncbi.nlm.nih.gov/21705644/,4226,HQ534133.1,ADW80648.1,1458,485,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/HQ534133.1,validated
+zea_mays,Zea mays,Maize,Poaceae,Monocot,C4,https://doi.org/10.3389/fpls.2020.570436,4577,NC_001666.2,NP_043033.1,1431,476,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_001666.2,validated
+flaveria_bidentis,Flaveria bidentis,,Asteraceae,Eudicot,C4,https://pubmed.ncbi.nlm.nih.gov/21705644/,4224,MK836182.1,QKY75826.1,1458,485,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/MK836182.1,validated

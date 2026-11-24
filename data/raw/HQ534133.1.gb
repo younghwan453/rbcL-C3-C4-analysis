@@ -1,0 +1,78 @@
+LOCUS       HQ534133                1458 bp    DNA     linear   PLN 25-JUL-2016
+DEFINITION  Flaveria pringlei voucher UNB 62640 ribulose-1,5-bisphosphate
+            carboxylase/oxygenase large subunit (rbcL) gene, complete cds;
+            chloroplast.
+ACCESSION   HQ534133
+VERSION     HQ534133.1
+KEYWORDS    .
+SOURCE      chloroplast Flaveria pringlei
+  ORGANISM  Flaveria pringlei
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; asterids; campanulids; Asterales; Asteraceae;
+            Asteroideae; Heliantheae alliance; Tageteae; Flaveria.
+REFERENCE   1  (bases 1 to 1458)
+  AUTHORS   Kapralov,M.V., Kubien,D.S., Andersson,I. and Filatov,D.A.
+  TITLE     Changes in Rubisco Kinetics during the Evolution of C4
+            Photosynthesis in Flaveria (Asteraceae) Are Associated with
+            Positive Selection on Genes Encoding the Enzyme
+  JOURNAL   Mol. Biol. Evol. 28 (4), 1491-1503 (2011)
+   PUBMED   21172830
+REFERENCE   2  (bases 1 to 1458)
+  AUTHORS   Kapralov,M.V., Kubien,D.S., Andersson,I. and Filatov,D.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-NOV-2010) Department of Plant Sciences, University of
+            Oxford, South Parks Road, Oxford OX1 3RB, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..1458
+                     /organism="Flaveria pringlei"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UNB 62640"
+                     /db_xref="taxon:4226"
+     gene            1..1458
+                     /gene="rbcL"
+     CDS             1..1458
+                     /gene="rbcL"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose-1,5-bisphosphate carboxylase/oxygenase
+                     large subunit"
+                     /protein_id="ADW80648.1"
+                     /translation="MSPQTETKASVGFKAGVKDYKLTYYTPEYETKDTDILAAFRVTP
+                     QPGVPPEEAGAAVAAESSTGTWTTVWTDGLTSLDRYKGRCYGIEPVPGEDNQYIAYVA
+                     YPLDLFEEGSVTNMFTSIVGNVFGFKALRALRLEDLRIPTAYVKTFEGPPHGIQVERD
+                     KLNKYGRPLLGCTIKPKLGLSAKNYGRACYECLRGGLDFTKDDENVNSQPFMRWRDRF
+                     LFCAEAIYKAQAETGEIKGHYLNATAGTCEEMLKRAVFARELGVPIVMHDYLTGGFTA
+                     NTSLSHYCRDNGLLLHIHRAMHAVIDRQKNHGMHFRVLAKALRMSGGDHIHSGTVVGK
+                     LEGEREITLGFVDLLRDDFIEKDRSRGIYFTQDWVSLPGVLPVASGGIHVWHMPALTE
+                     IFGDDSVLQFGGGTLGHPWGNAPGAVANRVALEACVQARNEGRDLATEGNEIIREATK
+                     WSPELAAACEVWKEIKFEFQAMDTLDTDKDKDKKR"
+ORIGIN      
+        1 atgtcaccac aaacagagac taaagcaagt gttggattca aagctggtgt taaagattat
+       61 aaattgactt attatactcc tgaatatgaa accaaggata ctgatatctt ggcagcattt
+      121 cgagtaactc ctcaacctgg agttccgcct gaagaagcag gggccgcagt agctgccgaa
+      181 tcttctactg gtacatggac aactgtatgg accgatggac ttacgagcct tgatcgttac
+      241 aaaggccgat gctatggaat cgagcctgtt cctggagaag acaatcaata tattgcttat
+      301 gtagcttacc cattagacct ttttgaagaa ggttctgtta ctaacatgtt tacttccatt
+      361 gtaggtaatg tatttgggtt caaagccctg cgtgctctac gtctggaaga tttgcgaatc
+      421 cctactgcgt atgttaaaac tttcgagggt ccgcctcacg gtatccaagt tgagagagat
+      481 aaattgaaca agtatggtcg tcccctgttg ggatgtacta ttaaacctaa attggggtta
+      541 tccgctaaaa actacggtag agcttgttat gaatgtcttc gtggtggcct tgattttact
+      601 aaagatgatg agaacgtgaa ctcccaacca tttatgcgtt ggagagaccg tttcttattt
+      661 tgtgccgaag ctatttataa agcacaagct gaaacaggtg aaatcaaagg gcattacttg
+      721 aatgctactg cgggtacatg cgaagaaatg cttaaaaggg ctgtatttgc cagagaattg
+      781 ggagttccta tcgtaatgca tgactaccta acagggggat tcactgcaaa tactagcttg
+      841 tctcattatt gccgagataa cggcctactt cttcacatcc accgcgcaat gcatgcagtt
+      901 attgatagac agaagaatca tggtatgcac ttccgtgtac tagctaaagc gttacgtatg
+      961 tctggtggag atcacattca ttccggtacc gtagtaggta aacttgaagg ggaaagagaa
+     1021 atcactttgg gctttgttga tttactgcgt gatgatttta ttgaaaaaga tagaagtcgc
+     1081 ggtatttatt tcacccaaga ttgggtctct ctaccaggtg ttctgcctgt agcttcgggg
+     1141 ggtattcacg tttggcatat gcctgctctg accgagatct ttggggatga ttccgtacta
+     1201 cagttcggtg gaggaacttt agggcaccct tgggggaatg cacctggtgc cgtagctaat
+     1261 cgagtagctc tagaagcatg tgtacaagct cgtaatgagg gacgcgatct tgctactgag
+     1321 ggtaatgaaa ttatccgtga ggctaccaaa tggagtcctg aactagctgc tgcttgtgaa
+     1381 gtatggaagg agatcaaatt tgagttccag gcaatggata ctttggatac ggataaggat
+     1441 aaggataaga agagataa
+//
+

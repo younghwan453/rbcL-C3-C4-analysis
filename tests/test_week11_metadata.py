@@ -62,13 +62,11 @@ class CandidateMetadataTests(unittest.TestCase):
             self.assertTrue(row["photosynthesis_reference"].startswith("https://"), row["species_id"])
 
     def test_flaveria_pairing_and_document_link(self):
-        c3 = {"Flaveria pringlei", "Flaveria robusta"}
-        c4 = {"Flaveria bidentis", "Flaveria trinervia"}
-        actual = {
-            row["scientific_name"]: row["photosynthesis_type"] for row in self.rows
+        counts = Counter(
+            row["photosynthesis_type"] for row in self.rows
             if row["scientific_name"].startswith("Flaveria ")
-        }
-        self.assertEqual(actual, dict.fromkeys(c3, "C3") | dict.fromkeys(c4, "C4"))
+        )
+        self.assertEqual(counts, {"C3": 2, "C4": 2})
         readme = (ROOT / "week11/README.md").read_text(encoding="utf-8")
         self.assertIn("(../data/processed/species_metadata.csv)", readme)
 

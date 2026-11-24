@@ -1,31 +1,31 @@
 species_id,scientific_name,common_name,family,taxonomic_group,photosynthesis_type,photosynthesis_reference,ncbi_taxonomy_id,nucleotide_accession,protein_accession,cds_length,protein_length,download_date,source_url,validation_status
-oryza_sativa,Oryza sativa,Asian rice,Poaceae,Monocot,C3,https://doi.org/10.3389/fpls.2020.570436,,,,,,,,pending_sequence_validation
-hordeum_vulgare,Hordeum vulgare,Barley,Poaceae,Monocot,C3,https://doi.org/10.3389/fpls.2020.570436,,,,,,,,pending_sequence_validation
-brachypodium_distachyon,Brachypodium distachyon,Purple false brome,Poaceae,Monocot,C3,https://doi.org/10.3389/fpls.2020.570436,,,,,,,,pending_sequence_validation
-dichanthelium_oligosanthes,Dichanthelium oligosanthes,Scribner's rosette grass,Poaceae,Monocot,C3,https://doi.org/10.3389/fpls.2020.570436,,,,,,,,pending_sequence_validation
-sacciolepis_indica,Sacciolepis indica,Indian cupscale,Poaceae,Monocot,C3,https://doi.org/10.1002/pld3.373,,,,,,,,pending_sequence_validation
-cyperus_eragrostis,Cyperus eragrostis,Tall flatsedge,Cyperaceae,Monocot,C3,https://doi.org/10.2307/2657080,,,,,,,,pending_sequence_validation
-triticum_aestivum,Triticum aestivum,Bread wheat,Poaceae,Monocot,C3,https://doi.org/10.1093/plphys/kiac040,,,,,,,,pending_sequence_validation
-avena_sativa,Avena sativa,Oat,Poaceae,Monocot,C3,https://doi.org/10.1093/plphys/kiac040,,,,,,,,pending_sequence_validation
-flaveria_pringlei,Flaveria pringlei,,Asteraceae,Eudicot,C3,https://pubmed.ncbi.nlm.nih.gov/21705644/,,,,,,,,pending_sequence_validation
-flaveria_robusta,Flaveria robusta,,Asteraceae,Eudicot,C3,https://pubmed.ncbi.nlm.nih.gov/21705644/,,,,,,,,pending_sequence_validation
-tarenaya_hassleriana,Tarenaya hassleriana,Spider flower,Cleomaceae,Eudicot,C3,https://pubmed.ncbi.nlm.nih.gov/25122153/,,,,,,,,pending_sequence_validation
-arabidopsis_thaliana,Arabidopsis thaliana,Thale cress,Brassicaceae,Eudicot,C3,https://doi.org/10.1186/1471-2164-15-140,,,,,,,,pending_sequence_validation
-glycine_max,Glycine max,Soybean,Fabaceae,Eudicot,C3,https://pubmed.ncbi.nlm.nih.gov/28311733/,,,,,,,,pending_sequence_validation
-chenopodium_album,Chenopodium album,Common lambsquarters,Amaranthaceae,Eudicot,C3,https://pubmed.ncbi.nlm.nih.gov/28311733/,,,,,,,,pending_sequence_validation
-atriplex_prostrata,Atriplex prostrata,Spear-leaved orache,Amaranthaceae,Eudicot,C3,https://doi.org/10.1093/jxb/eru106,,,,,,,,pending_sequence_validation
-zea_mays,Zea mays,Maize,Poaceae,Monocot,C4,https://doi.org/10.3389/fpls.2020.570436,,,,,,,,pending_sequence_validation
-sorghum_bicolor,Sorghum bicolor,Sorghum,Poaceae,Monocot,C4,https://doi.org/10.3389/fpls.2020.570436,,,,,,,,pending_sequence_validation
-setaria_viridis,Setaria viridis,Green foxtail,Poaceae,Monocot,C4,https://doi.org/10.3389/fpls.2020.570436,,,,,,,,pending_sequence_validation
-panicum_virgatum,Panicum virgatum,Switchgrass,Poaceae,Monocot,C4,https://doi.org/10.3389/fpls.2020.570436,,,,,,,,pending_sequence_validation
-echinochloa_crus-galli,Echinochloa crus-galli,Barnyardgrass,Poaceae,Monocot,C4,https://doi.org/10.14941/grass.27.357,,,,,,,,pending_sequence_validation
-eleusine_coracana,Eleusine coracana,Finger millet,Poaceae,Monocot,C4,https://pubmed.ncbi.nlm.nih.gov/33268920/,,,,,,,,pending_sequence_validation
-chloris_gayana,Chloris gayana,Rhodes grass,Poaceae,Monocot,C4,https://doi.org/10.14941/grass.27.357,,,,,,,,pending_sequence_validation
-cyperus_rotundus,Cyperus rotundus,Purple nutsedge,Cyperaceae,Monocot,C4,https://doi.org/10.1016/0003-9861(74)90475-5,,,,,,,,pending_sequence_validation
-flaveria_bidentis,Flaveria bidentis,,Asteraceae,Eudicot,C4,https://pubmed.ncbi.nlm.nih.gov/21705644/,,,,,,,,pending_sequence_validation
-flaveria_trinervia,Flaveria trinervia,,Asteraceae,Eudicot,C4,https://pubmed.ncbi.nlm.nih.gov/21705644/,,,,,,,,pending_sequence_validation
-gynandropsis_gynandra,Gynandropsis gynandra,African spider plant,Cleomaceae,Eudicot,C4,https://pubmed.ncbi.nlm.nih.gov/25122153/,,,,,,,,pending_sequence_validation
-amaranthus_retroflexus,Amaranthus retroflexus,Redroot pigweed,Amaranthaceae,Eudicot,C4,https://pubmed.ncbi.nlm.nih.gov/28311733/,,,,,,,,pending_sequence_validation
-atriplex_rosea,Atriplex rosea,Redscale,Amaranthaceae,Eudicot,C4,https://doi.org/10.1093/jxb/eru106,,,,,,,,pending_sequence_validation
-euphorbia_maculata,Euphorbia maculata,Spotted spurge,Euphorbiaceae,Eudicot,C4,https://doi.org/10.3732/ajb.1000496,,,,,,,,pending_sequence_validation
-bassia_scoparia,Bassia scoparia,Kochia,Amaranthaceae,Eudicot,C4,https://doi.org/10.1007/s004420050985,,,,,,,,pending_sequence_validation
+oryza_sativa,Oryza sativa,Asian rice,Poaceae,Monocot,C3,https://doi.org/10.3389/fpls.2020.570436,4530,NC_001320.1,NP_039391.1,1434,477,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_001320.1,validated
+hordeum_vulgare,Hordeum vulgare,Barley,Poaceae,Monocot,C3,https://doi.org/10.3389/fpls.2020.570436,4513,NC_056985.1,YP_010144433.1,1440,479,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_056985.1,validated
+brachypodium_distachyon,Brachypodium distachyon,Purple false brome,Poaceae,Monocot,C3,https://doi.org/10.3389/fpls.2020.570436,15368,NC_011032.1,YP_002000495.1,1431,476,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_011032.1,validated
+dichanthelium_acuminatum,Dichanthelium acuminatum,Tapered rosette grass,Poaceae,Monocot,C3,https://pmc.ncbi.nlm.nih.gov/articles/PMC8801178/,220438,NC_030623.1,YP_009267984.1,1431,476,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_030623.1,validated
+sacciolepis_indica,Sacciolepis indica,Indian cupscale,Poaceae,Monocot,C3,https://doi.org/10.1002/pld3.373,158156,NC_036702.1,YP_009452285.1,1434,477,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_036702.1,validated
+cyperus_eragrostis,Cyperus eragrostis,Tall flatsedge,Cyperaceae,Monocot,C3,https://doi.org/10.2307/2657080,529430,PQ874698.1,XOB89104.1,1440,479,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/PQ874698.1,validated
+triticum_aestivum,Triticum aestivum,Bread wheat,Poaceae,Monocot,C3,https://doi.org/10.1093/plphys/kiac040,4565,NC_002762.1,NP_114267.1,1434,477,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_002762.1,validated
+avena_sativa,Avena sativa,Oat,Poaceae,Monocot,C3,https://doi.org/10.1093/plphys/kiac040,4498,NC_027468.1,YP_009156214.1,1434,477,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_027468.1,validated
+flaveria_pringlei,Flaveria pringlei,,Asteraceae,Eudicot,C3,https://pubmed.ncbi.nlm.nih.gov/21705644/,4226,HQ534133.1,ADW80648.1,1458,485,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/HQ534133.1,validated
+flaveria_cronquistii,Flaveria cronquistii,,Asteraceae,Eudicot,C3,https://doi.org/10.3732/ajb.94.3.382,29717,HQ534139.1,ADW80654.1,1458,485,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/HQ534139.1,validated
+tarenaya_hassleriana,Tarenaya hassleriana,Spider flower,Cleomaceae,Eudicot,C3,https://pubmed.ncbi.nlm.nih.gov/25122153/,28532,NC_034364.1,YP_009356535.1,1443,480,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_034364.1,validated
+arabidopsis_thaliana,Arabidopsis thaliana,Thale cress,Brassicaceae,Eudicot,C3,https://doi.org/10.1186/1471-2164-15-140,3702,NC_000932.1,NP_051067.1,1440,479,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_000932.1,validated
+glycine_max,Glycine max,Soybean,Fabaceae,Eudicot,C3,https://pubmed.ncbi.nlm.nih.gov/28311733/,3847,NC_007942.1,YP_538747.1,1428,475,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_007942.1,validated
+chenopodium_album,Chenopodium album,Common lambsquarters,Amaranthaceae,Eudicot,C3,https://pubmed.ncbi.nlm.nih.gov/28311733/,3559,NC_034950.1,YP_009380220.1,1428,475,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_034950.1,validated
+atriplex_prostrata,Atriplex prostrata,Spear-leaved orache,Amaranthaceae,Eudicot,C3,https://doi.org/10.1093/jxb/eru106,190330,NC_084791.1,YP_010997155.1,1428,475,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_084791.1,validated
+zea_mays,Zea mays,Maize,Poaceae,Monocot,C4,https://doi.org/10.3389/fpls.2020.570436,4577,NC_001666.2,NP_043033.1,1431,476,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_001666.2,validated
+sorghum_bicolor,Sorghum bicolor,Sorghum,Poaceae,Monocot,C4,https://doi.org/10.3389/fpls.2020.570436,4558,NC_008602.1,YP_899415.1,1431,476,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_008602.1,validated
+setaria_viridis,Setaria viridis,Green foxtail,Poaceae,Monocot,C4,https://doi.org/10.3389/fpls.2020.570436,4556,NC_028075.1,YP_009172148.1,1428,475,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_028075.1,validated
+panicum_virgatum,Panicum virgatum,Switchgrass,Poaceae,Monocot,C4,https://doi.org/10.3389/fpls.2020.570436,38727,NC_015990.1,YP_004841957.1,1434,477,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_015990.1,validated
+echinochloa_crus-galli,Echinochloa crus-galli,Barnyardgrass,Poaceae,Monocot,C4,https://doi.org/10.14941/grass.27.357,90397,NC_028719.1,YP_009192293.1,1434,477,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_028719.1,validated
+eleusine_coracana,Eleusine coracana,Finger millet,Poaceae,Monocot,C4,https://pubmed.ncbi.nlm.nih.gov/33268920/,4511,NC_056927.1,YP_010140361.1,1452,483,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_056927.1,validated
+chloris_gayana,Chloris gayana,Rhodes grass,Poaceae,Monocot,C4,https://doi.org/10.14941/grass.27.357,110876,OZ205796.1,CAM1091420.1,1431,476,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/OZ205796.1,validated
+cyperus_rotundus,Cyperus rotundus,Purple nutsedge,Cyperaceae,Monocot,C4,https://doi.org/10.1016/0003-9861(74)90475-5,512623,NC_050170.1,YP_009915514.1,1440,479,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_050170.1,validated
+flaveria_bidentis,Flaveria bidentis,,Asteraceae,Eudicot,C4,https://pubmed.ncbi.nlm.nih.gov/21705644/,4224,MK836182.1,QKY75826.1,1458,485,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/MK836182.1,validated
+flaveria_trinervia,Flaveria trinervia,,Asteraceae,Eudicot,C4,https://pubmed.ncbi.nlm.nih.gov/21705644/,4227,HQ534146.1,ADW80661.1,1458,485,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/HQ534146.1,validated
+gynandropsis_gynandra,Gynandropsis gynandra,African spider plant,Cleomaceae,Eudicot,C4,https://pubmed.ncbi.nlm.nih.gov/25122153/,190802,NC_054276.1,YP_010044533.1,1452,483,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_054276.1,validated
+amaranthus_retroflexus,Amaranthus retroflexus,Redroot pigweed,Amaranthaceae,Eudicot,C4,https://pubmed.ncbi.nlm.nih.gov/28311733/,124763,MW646089.1,QVV23608.1,1428,475,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/MW646089.1,validated
+atriplex_rosea,Atriplex rosea,Redscale,Amaranthaceae,Eudicot,C4,https://doi.org/10.1093/jxb/eru106,3552,X55831.1,CAA39357.1,1428,475,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/X55831.1,validated
+euphorbia_maculata,Euphorbia maculata,Spotted spurge,Euphorbiaceae,Eudicot,C4,https://doi.org/10.3732/ajb.1000496,216479,NC_052745.1,YP_009989926.1,1428,475,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_052745.1,validated
+bassia_scoparia,Bassia scoparia,Kochia,Amaranthaceae,Eudicot,C4,https://doi.org/10.1007/s004420050985,83154,NC_086517.1,YP_011038584.1,1428,475,2026-11-24,https://www.ncbi.nlm.nih.gov/nuccore/NC_086517.1,validated

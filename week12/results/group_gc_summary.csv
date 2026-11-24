@@ -1,0 +1,41 @@
+grouping,photosynthesis_type,taxonomic_group,metric,n,mean_pct,sd_pct
+Photosynthesis type,C3,,at_pct,15,56.372314077413655,0.6173082991066405
+Photosynthesis type,C4,,at_pct,15,56.48432735620339,0.66542656782011
+Photosynthesis type,C3,,gc_pct,15,43.627685922586345,0.6173082991066405
+Photosynthesis type,C4,,gc_pct,15,43.51567264379662,0.66542656782011
+Photosynthesis type,C3,,gc1_pct,15,57.08324739682823,0.7419562847083695
+Photosynthesis type,C4,,gc1_pct,15,56.59425492646547,0.8382735557507032
+Photosynthesis type,C3,,gc2_pct,15,44.11797660872926,0.5145352484645987
+Photosynthesis type,C4,,gc2_pct,15,44.13100667373637,0.4238915811036624
+Photosynthesis type,C3,,gc3_pct,15,29.68183376220155,1.7680387648721587
+Photosynthesis type,C4,,gc3_pct,15,29.821756331188045,1.9603593436852231
+Taxonomic group,,Monocot,at_pct,16,56.491787827375994,0.7843186697645097
+Taxonomic group,,Eudicot,at_pct,14,56.35578687615997,0.4172002859111811
+Taxonomic group,,Monocot,gc_pct,16,43.508212172624006,0.7843186697645097
+Taxonomic group,,Eudicot,gc_pct,14,43.64421312384003,0.4172002859111811
+Taxonomic group,,Monocot,gc1_pct,16,56.2650020991253,0.5077921561402413
+Taxonomic group,,Eudicot,gc1_pct,14,57.49446437595717,0.5673106231506834
+Taxonomic group,,Monocot,gc2_pct,16,44.34987921982254,0.3922339363157434
+Taxonomic group,,Eudicot,gc2_pct,14,43.866905837130275,0.40892829536202135
+Taxonomic group,,Monocot,gc3_pct,16,29.90975519892417,2.212534318621133
+Taxonomic group,,Eudicot,gc3_pct,14,29.57126915843266,1.3424236547970319
+Photosynthesis type and taxonomic group,C3,Monocot,at_pct,8,56.46860893094781,0.7518143963319369
+Photosynthesis type and taxonomic group,C3,Eudicot,at_pct,7,56.26226281623177,0.4508212412120788
+Photosynthesis type and taxonomic group,C4,Monocot,at_pct,8,56.51496672380418,0.8670282785435899
+Photosynthesis type and taxonomic group,C4,Eudicot,at_pct,7,56.44931093608817,0.3917558285404499
+Photosynthesis type and taxonomic group,C3,Monocot,gc_pct,8,43.53139106905219,0.7518143963319369
+Photosynthesis type and taxonomic group,C3,Eudicot,gc_pct,7,43.73773718376823,0.4508212412120788
+Photosynthesis type and taxonomic group,C4,Monocot,gc_pct,8,43.48503327619582,0.8670282785435899
+Photosynthesis type and taxonomic group,C4,Eudicot,gc_pct,7,43.55068906391183,0.3917558285404499
+Photosynthesis type and taxonomic group,C3,Monocot,gc1_pct,8,56.54793707047031,0.38798010105404196
+Photosynthesis type and taxonomic group,C3,Eudicot,gc1_pct,7,57.69503062695156,0.5386525901874357
+Photosynthesis type and taxonomic group,C4,Monocot,gc1_pct,8,55.98206712778028,0.4680137402906539
+Photosynthesis type and taxonomic group,C4,Eudicot,gc1_pct,7,57.29389812496278,0.559744329849206
+Photosynthesis type and taxonomic group,C3,Monocot,gc2_pct,8,44.36914773590533,0.41628460182839566
+Photosynthesis type and taxonomic group,C3,Eudicot,gc2_pct,7,43.83092389195661,0.4850963653884124
+Photosynthesis type and taxonomic group,C4,Monocot,gc2_pct,8,44.33061070373976,0.39437498698893275
+Photosynthesis type and taxonomic group,C4,Eudicot,gc2_pct,7,43.902887782303935,0.35210174953246404
+Photosynthesis type and taxonomic group,C3,Monocot,gc3_pct,8,29.677088400780935,2.17628507765243
+Photosynthesis type and taxonomic group,C3,Eudicot,gc3_pct,7,29.68725703239655,1.329758864865076
+Photosynthesis type and taxonomic group,C4,Monocot,gc3_pct,8,30.14242199706741,2.3727609917659844
+Photosynthesis type and taxonomic group,C4,Eudicot,gc3_pct,7,29.455281284468775,1.4508285016755815

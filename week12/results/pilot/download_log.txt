@@ -1,0 +1,18 @@
+INFO NCBI collection phase=pilot date=2026-11-24
+INFO oryza_sativa: confirmed NCBI species Oryza sativa (taxid 4530)
+INFO oryza_sativa: refseq_plastome 4 hits, first 4 returned
+INFO oryza_sativa: selected NC_001320.1 (refseq_plastome)
+INFO flaveria_pringlei: confirmed NCBI species Flaveria pringlei (taxid 4226)
+INFO flaveria_pringlei: refseq_plastome 0 hits, first 0 returned
+INFO flaveria_pringlei: genbank_plastome 0 hits, first 0 returned
+INFO flaveria_pringlei: refseq_rbcL_cds 0 hits, first 0 returned
+INFO flaveria_pringlei: genbank_rbcL_cds 2 hits, first 2 returned
+INFO flaveria_pringlei: selected HQ534133.1 (genbank_rbcL_cds)
+INFO zea_mays: confirmed NCBI species Zea mays (taxid 4577)
+INFO zea_mays: refseq_plastome 1 hits, first 1 returned
+INFO zea_mays: selected NC_001666.2 (refseq_plastome)
+INFO flaveria_bidentis: confirmed NCBI species Flaveria bidentis (taxid 4224)
+INFO flaveria_bidentis: refseq_plastome 0 hits, first 0 returned
+INFO flaveria_bidentis: genbank_plastome 1 hits, first 1 returned
+INFO flaveria_bidentis: selected MK836182.1 (genbank_plastome)
+INFO Validated 4 of 4 species

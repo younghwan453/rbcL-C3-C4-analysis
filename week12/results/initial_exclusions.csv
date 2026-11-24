@@ -1,0 +1,5 @@
+species_id,scientific_name,ncbi_taxonomy_id,nucleotide_accession,protein_accession,record_organism,record_taxonomy_id,source_tier,cds_location,strand,translation_table,translation_table_source,cds_length,protein_length,stop_codon,annotation_translation_match,validation_status,reason
+dichanthelium_oligosanthes,Dichanthelium oligosanthes,888268,,,,,,,,,,,,,,excluded,no acceptable full-length rbcL CDS in returned candidates
+flaveria_robusta,Flaveria robusta,163089,,,,,,,,,,,,,,excluded,no acceptable full-length rbcL CDS in returned candidates
+chloris_gayana,Chloris gayana,110876,,,,,,,,,,,,,,excluded,no acceptable full-length rbcL CDS in returned candidates
+atriplex_rosea,Atriplex rosea,3552,,,,,,,,,,,,,,excluded,no acceptable full-length rbcL CDS in returned candidates

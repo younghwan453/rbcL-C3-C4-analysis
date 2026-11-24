@@ -1,0 +1,101 @@
+LOCUS       X55831                  1790 bp    DNA     linear   PLN 14-JUL-2016
+DEFINITION  Atriplex rosea chloroplast rbcL gene for the rubisco large subunit
+            (EC 4.1.1.39).
+ACCESSION   X55831 M33794 X15924
+VERSION     X55831.1
+KEYWORDS    rbcL gene; ribulose bisphosphate carboxylase; rubisco large
+            subunit.
+SOURCE      chloroplast Atriplex rosea
+  ORGANISM  Atriplex rosea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Amaranthaceae; Chenopodioideae;
+            Atripliceae; Atriplex.
+REFERENCE   1  (bases 1 to 1790)
+  AUTHORS   Hudson,G.S., Mahon,J.D., Anderson,P.A., Gibbs,M.J., Badger,M.R.,
+            Andrews,T.J. and Whitfeld,P.R.
+  TITLE     Comparisons of rbcL genes for the large subunit of
+            ribulose-bisphosphate carboxylase from closely related C3 and C4
+            plant species
+  JOURNAL   J. Biol. Chem. 265 (2), 808-814 (1990)
+   PUBMED   2295620
+REFERENCE   2  (bases 1 to 1790)
+  AUTHORS   Hudson,G.S., Mahon,J.D., Mahon,P.A., Gibbs,M.J., Badger,M.R. and
+            Andrews,T.J.
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 1790)
+  AUTHORS   Hudson,G.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUL-1989) Hudson G.S., Research School of Biological
+            Sciences, PO Box 475, Australian National University, Canberra City
+            ACT 2601, Australia
+FEATURES             Location/Qualifiers
+     source          1..1790
+                     /organism="Atriplex rosea"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:3552"
+     regulatory      44..49
+                     /regulatory_class="promoter"
+                     /note="-35 box"
+     regulatory      68..73
+                     /regulatory_class="promoter"
+                     /note="-10 box"
+     precursor_RNA   78..>78
+                     /note="put. rbcL transcript"
+     CDS             259..1686
+                     /note="unnamed protein product; rubisco large subunit"
+                     /codon_start=1
+                     /transl_table=11
+                     /protein_id="CAA39357.1"
+                     /db_xref="GOA:P20455"
+                     /db_xref="InterPro:IPR000685"
+                     /db_xref="InterPro:IPR017443"
+                     /db_xref="InterPro:IPR017444"
+                     /db_xref="InterPro:IPR020878"
+                     /db_xref="InterPro:IPR020888"
+                     /db_xref="UniProtKB/Swiss-Prot:P20455"
+                     /translation="MSPQTETKANVGFKAGVKDYKLTYYTPEYETLDTDILAAFRVSP
+                     QPGVPPEEAGAAVAAESSTGTWTTVWTDGLTSLDRYKGRCYHIEPVAGEENQYICYVA
+                     YPLDLFEEGSVTNMFTSIVGNVFGFKALRALRLEDLRIPVAYVKTFQGPPHGIQVERD
+                     KLNKYGRPLLGCTIKPKLGLSAKNYGRAVYEVLRGGLDFTKDDENVNSQPFMRWRDRF
+                     LFCAEALYKAQAETGEIKGHYLNATAGTCEDMMKRAVFARELGVPIVMHDYLTGGFTA
+                     NTTLSHYCRDNGLLLHIHRAMHAVIDRQKNHGIHFRVLAKALRLSGGDHIHSGTVVGK
+                     LEGERDITLGFVDLLRDDYTEKDRSRGIYFSQSWVSTPGVLPVASGGIHVWHMPALTE
+                     IFGDDSVLQFGGGTLGHPWGNAPGAVANRVALEACVQARNEGRDLAREGNTIIREASK
+                     WSPELAAACEIWKEIKFEFPAMDTV"
+     repeat_region   1736..1769
+                     /rpt_type=INVERTED
+ORIGIN      
+        1 ggatccgaaa ttagaaactt gaaaaacaac ggttacgatt gggttgcgcc atatatatga
+       61 aagagtatac aataatgatg tatttgacga atcaaataca tggtctatta gcgaaccgtt
+      121 tgattagttg ataatattaa ttgagaattt attttatgaa agattcctat aaaaggtttc
+      181 attaggggct aatttatgtc gagtagacct tgttgttttg ttgtaaaaat ttaaaattga
+      241 agttgtaggg agggacttat gtcaccacaa acagagacta aagcaaatgt tggatttaaa
+      301 gctggtgtta aagattacaa attgacttat tatactcctg agtatgaaac cctagatact
+      361 gatatcttgg cagcattccg agtaagtcct caaccgggag ttccacccga agaagcaggg
+      421 gctgcagtag ctgctgaatc ttctactggt acatggacaa ctgtatggac cgacggactt
+      481 accagtcttg atcgttacaa aggacgatgc taccacatcg agcctgttgc tggagaagaa
+      541 aatcaatata tttgttatgt agcatatccc ttagaccttt ttgaagaagg ttctgttact
+      601 aatatgttta cttccattgt gggtaacgta tttgggttca aagccctgcg tgctctacgt
+      661 ttggaggatt tgcgaatccc tgttgcttat gtaaaaactt tccaaggccc gcctcacggt
+      721 atccaagttg agagagataa attgaataag tatggccgcc ccctattggg atgcactatt
+      781 aaaccaaaat tggggttatc cgctaaaaac tatggtcgag cagtttatga agtccttcgt
+      841 ggtggacttg attttaccaa agatgatgaa aacgtgaact cccagccgtt tatgcgttgg
+      901 agagaccgtt tcctattttg tgccgaagct ctttataaag cacaagccga aacaggcgaa
+      961 atcaagggtc attacttgaa tgctactgcg ggtacatgcg aagacatgat gaaaagggct
+     1021 gtatttgcca gagaattggg agttcctatc gtaatgcatg actacttaac agggggattc
+     1081 actgcaaata ctactttgtc tcattattgc cgagataatg gtctacttct gcacatccac
+     1141 cgtgcaatgc acgcagttat tgatagacag aagaatcatg gtatacactt ccgtgtacta
+     1201 gctaaagcgt tacgtctgtc tggtggagat catattcatt ctggtaccgt agtaggtaag
+     1261 cttgaaggag aaagagatat tactttaggt tttgttgatt tactacgtga tgattatact
+     1321 gaaaaagacc gaagtcgtgg tatttatttt agtcaatctt gggtttccac accaggtgtt
+     1381 ctgcccgttg cttcgggagg tattcacgtt tggcatatgc ctgctctaac cgagatcttt
+     1441 ggggatgatt ctgtactaca gtttggtgga ggaactttag gacacccttg ggggaatgca
+     1501 ccgggtgctg tagcgaatcg agtagctcta gaagcatgtg tacaagctcg taatgaggga
+     1561 cgtgatcttg ctcgtgaggg taatacaatt attcgcgagg ctagcaaatg gagtcctgaa
+     1621 ctagctgctg cttgtgagat atggaaggaa atcaaatttg aattcccagc aatggataca
+     1681 gtttaggcta agtaattaat gttcggtctc ttagttgaat tgtaattaaa caaactcggc
+     1741 ccaatctttt actaaaagga ttgagccgaa tacaattatt gtagatatat
+//
+

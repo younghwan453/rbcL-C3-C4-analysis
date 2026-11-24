@@ -1,0 +1,5 @@
+species_id,scientific_name,ncbi_taxonomy_id,nucleotide_accession,protein_accession,record_organism,record_taxonomy_id,source_tier,cds_identity_evidence,cds_location,strand,translation_table,translation_table_source,cds_length,protein_length,stop_codon,annotation_translation_match,validation_status,reason
+oryza_sativa,Oryza sativa,4530,NC_001320.1,NP_039391.1,Oryza sativa Japonica Group,39947,refseq_plastome,gene=rbcL,[54094:55528](+),1,11,GenBank,1434,477,TAG,true,validated,
+flaveria_pringlei,Flaveria pringlei,4226,HQ534133.1,ADW80648.1,Flaveria pringlei,4226,genbank_rbcL_cds,gene=rbcL,[0:1458](+),1,11,GenBank,1458,485,TAA,true,validated,
+zea_mays,Zea mays,4577,NC_001666.2,NP_043033.1,Zea mays,4577,refseq_plastome,gene=rbcL,[56873:58304](+),1,11,GenBank,1431,476,TAA,true,validated,
+flaveria_bidentis,Flaveria bidentis,4224,MK836182.1,QKY75826.1,Flaveria bidentis,4224,genbank_plastome,gene=rbcL,[54870:56328](+),1,11,GenBank,1458,485,TAA,true,validated,

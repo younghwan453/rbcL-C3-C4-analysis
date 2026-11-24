@@ -2,7 +2,7 @@
 
 ## 목표와 수행 내용
 
-광합성 경로와 Rubisco의 기능을 이해하고, 문헌에 따라 네 그룹에서 8·7·8·7종을 선정했습니다. 30종 후보와 종별 광합성 근거는 [후보종 CSV](../data/processed/species_metadata.csv)에, 속·과 수준의 비교 근거는 [후보종 설명](species_selection.md)에 정리했습니다.
+광합성 경로와 Rubisco의 기능을 이해하고, 문헌에 따라 네 그룹에서 8·7·8·7종을 선정했습니다. 11주차 초기 목록과 속·과 비교 근거는 [후보종 설명](species_selection.md)에, 현재의 검증 상태와 종별 출처는 [메타데이터 CSV](../data/processed/species_metadata.csv)에 정리했습니다.
 
 [후보 검토 노트북](analysis.ipynb)에서 그룹별 집계, 시험 수집 대상, 속·과별 대비를 재현할 수 있습니다.
 

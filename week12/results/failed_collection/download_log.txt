@@ -1,0 +1,111 @@
+INFO NCBI collection phase=all date=2026-11-24
+INFO oryza_sativa: confirmed NCBI species Oryza sativa (taxid 4530)
+INFO oryza_sativa: refseq_plastome 4 hits, first 4 returned
+INFO oryza_sativa: selected NC_001320.1 (refseq_plastome)
+INFO hordeum_vulgare: confirmed NCBI species Hordeum vulgare (taxid 4513)
+INFO hordeum_vulgare: refseq_plastome 3 hits, first 3 returned
+INFO hordeum_vulgare: selected NC_056985.1 (refseq_plastome)
+INFO brachypodium_distachyon: confirmed NCBI species Brachypodium distachyon (taxid 15368)
+INFO brachypodium_distachyon: refseq_plastome 1 hits, first 1 returned
+INFO brachypodium_distachyon: selected NC_011032.1 (refseq_plastome)
+INFO dichanthelium_acuminatum: confirmed NCBI species Dichanthelium acuminatum (taxid 220438)
+INFO dichanthelium_acuminatum: refseq_plastome 1 hits, first 1 returned
+INFO dichanthelium_acuminatum: selected NC_030623.1 (refseq_plastome)
+INFO sacciolepis_indica: confirmed NCBI species Sacciolepis indica (taxid 158156)
+INFO sacciolepis_indica: refseq_plastome 1 hits, first 1 returned
+INFO sacciolepis_indica: selected NC_036702.1 (refseq_plastome)
+INFO cyperus_eragrostis: confirmed NCBI species Cyperus eragrostis (taxid 529430)
+INFO cyperus_eragrostis: refseq_plastome 0 hits, first 0 returned
+INFO cyperus_eragrostis: genbank_plastome 1 hits, first 1 returned
+INFO cyperus_eragrostis: selected PQ874698.1 (genbank_plastome)
+INFO triticum_aestivum: confirmed NCBI species Triticum aestivum (taxid 4565)
+INFO triticum_aestivum: refseq_plastome 1 hits, first 1 returned
+INFO triticum_aestivum: selected NC_002762.1 (refseq_plastome)
+INFO avena_sativa: confirmed NCBI species Avena sativa (taxid 4498)
+INFO avena_sativa: refseq_plastome 1 hits, first 1 returned
+INFO avena_sativa: selected NC_027468.1 (refseq_plastome)
+INFO flaveria_pringlei: confirmed NCBI species Flaveria pringlei (taxid 4226)
+INFO flaveria_pringlei: refseq_plastome 0 hits, first 0 returned
+INFO flaveria_pringlei: genbank_plastome 0 hits, first 0 returned
+INFO flaveria_pringlei: refseq_rbcL_cds 0 hits, first 0 returned
+INFO flaveria_pringlei: genbank_rbcL_cds 2 hits, first 2 returned
+INFO flaveria_pringlei: selected HQ534133.1 (genbank_rbcL_cds)
+INFO flaveria_cronquistii: confirmed NCBI species Flaveria cronquistii (taxid 29717)
+INFO flaveria_cronquistii: refseq_plastome 0 hits, first 0 returned
+INFO flaveria_cronquistii: genbank_plastome 0 hits, first 0 returned
+INFO flaveria_cronquistii: refseq_rbcL_cds 0 hits, first 0 returned
+INFO flaveria_cronquistii: genbank_rbcL_cds 1 hits, first 1 returned
+INFO flaveria_cronquistii: selected HQ534139.1 (genbank_rbcL_cds)
+INFO tarenaya_hassleriana: confirmed NCBI species Tarenaya hassleriana (taxid 28532)
+INFO tarenaya_hassleriana: refseq_plastome 1 hits, first 1 returned
+INFO tarenaya_hassleriana: selected NC_034364.1 (refseq_plastome)
+INFO arabidopsis_thaliana: confirmed NCBI species Arabidopsis thaliana (taxid 3702)
+INFO arabidopsis_thaliana: refseq_plastome 1 hits, first 1 returned
+INFO arabidopsis_thaliana: selected NC_000932.1 (refseq_plastome)
+INFO glycine_max: confirmed NCBI species Glycine max (taxid 3847)
+INFO glycine_max: refseq_plastome 1 hits, first 1 returned
+INFO glycine_max: selected NC_007942.1 (refseq_plastome)
+INFO chenopodium_album: confirmed NCBI species Chenopodium album (taxid 3559)
+INFO chenopodium_album: refseq_plastome 1 hits, first 1 returned
+INFO chenopodium_album: selected NC_034950.1 (refseq_plastome)
+INFO atriplex_prostrata: confirmed NCBI species Atriplex prostrata (taxid 190330)
+INFO atriplex_prostrata: refseq_plastome 1 hits, first 1 returned
+INFO atriplex_prostrata: selected NC_084791.1 (refseq_plastome)
+INFO zea_mays: confirmed NCBI species Zea mays (taxid 4577)
+INFO zea_mays: refseq_plastome 1 hits, first 1 returned
+INFO zea_mays: selected NC_001666.2 (refseq_plastome)
+INFO sorghum_bicolor: confirmed NCBI species Sorghum bicolor (taxid 4558)
+INFO sorghum_bicolor: refseq_plastome 1 hits, first 1 returned
+INFO sorghum_bicolor: selected NC_008602.1 (refseq_plastome)
+INFO setaria_viridis: confirmed NCBI species Setaria viridis (taxid 4556)
+INFO setaria_viridis: refseq_plastome 1 hits, first 1 returned
+INFO setaria_viridis: selected NC_028075.1 (refseq_plastome)
+INFO panicum_virgatum: confirmed NCBI species Panicum virgatum (taxid 38727)
+INFO panicum_virgatum: refseq_plastome 1 hits, first 1 returned
+INFO panicum_virgatum: selected NC_015990.1 (refseq_plastome)
+INFO echinochloa_crus-galli: confirmed NCBI species Echinochloa crus-galli (taxid 90397)
+INFO echinochloa_crus-galli: refseq_plastome 1 hits, first 1 returned
+INFO echinochloa_crus-galli: selected NC_028719.1 (refseq_plastome)
+INFO eleusine_coracana: confirmed NCBI species Eleusine coracana (taxid 4511)
+INFO eleusine_coracana: refseq_plastome 1 hits, first 1 returned
+INFO eleusine_coracana: selected NC_056927.1 (refseq_plastome)
+INFO chloris_gayana: confirmed NCBI species Chloris gayana (taxid 110876)
+INFO chloris_gayana: refseq_plastome 0 hits, first 0 returned
+INFO chloris_gayana: genbank_plastome 0 hits, first 0 returned
+INFO chloris_gayana: refseq_rbcL_cds 0 hits, first 0 returned
+INFO chloris_gayana: genbank_rbcL_cds 1 hits, first 1 returned
+WARNING chloris_gayana: excluded AM849409.1 (CDS has a partial or invalid location)
+WARNING chloris_gayana: no acceptable full-length rbcL CDS in returned candidates
+INFO cyperus_rotundus: confirmed NCBI species Cyperus rotundus (taxid 512623)
+INFO cyperus_rotundus: refseq_plastome 1 hits, first 1 returned
+INFO cyperus_rotundus: selected NC_050170.1 (refseq_plastome)
+INFO flaveria_bidentis: confirmed NCBI species Flaveria bidentis (taxid 4224)
+INFO flaveria_bidentis: refseq_plastome 0 hits, first 0 returned
+INFO flaveria_bidentis: genbank_plastome 1 hits, first 1 returned
+INFO flaveria_bidentis: selected MK836182.1 (genbank_plastome)
+INFO flaveria_trinervia: confirmed NCBI species Flaveria trinervia (taxid 4227)
+INFO flaveria_trinervia: refseq_plastome 0 hits, first 0 returned
+INFO flaveria_trinervia: genbank_plastome 0 hits, first 0 returned
+INFO flaveria_trinervia: refseq_rbcL_cds 0 hits, first 0 returned
+INFO flaveria_trinervia: genbank_rbcL_cds 2 hits, first 2 returned
+INFO flaveria_trinervia: selected HQ534146.1 (genbank_rbcL_cds)
+INFO gynandropsis_gynandra: confirmed NCBI species Gynandropsis gynandra (taxid 190802)
+INFO gynandropsis_gynandra: refseq_plastome 1 hits, first 1 returned
+INFO gynandropsis_gynandra: selected NC_054276.1 (refseq_plastome)
+INFO amaranthus_retroflexus: confirmed NCBI species Amaranthus retroflexus (taxid 124763)
+INFO amaranthus_retroflexus: refseq_plastome 0 hits, first 0 returned
+INFO amaranthus_retroflexus: genbank_plastome 1 hits, first 1 returned
+INFO amaranthus_retroflexus: selected MW646089.1 (genbank_plastome)
+INFO atriplex_rosea: confirmed NCBI species Atriplex rosea (taxid 3552)
+INFO atriplex_rosea: refseq_plastome 0 hits, first 0 returned
+INFO atriplex_rosea: genbank_plastome 0 hits, first 0 returned
+INFO atriplex_rosea: refseq_rbcL_cds 0 hits, first 0 returned
+INFO atriplex_rosea: genbank_rbcL_cds 1 hits, first 1 returned
+INFO atriplex_rosea: selected X55831.1 (genbank_rbcL_cds)
+INFO euphorbia_maculata: confirmed NCBI species Euphorbia maculata (taxid 216479)
+INFO euphorbia_maculata: refseq_plastome 1 hits, first 1 returned
+INFO euphorbia_maculata: selected NC_052745.1 (refseq_plastome)
+INFO bassia_scoparia: confirmed NCBI species Bassia scoparia (taxid 83154)
+INFO bassia_scoparia: refseq_plastome 1 hits, first 1 returned
+INFO bassia_scoparia: selected NC_086517.1 (refseq_plastome)
+INFO Validated 29 of 30 species
