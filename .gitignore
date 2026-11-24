@@ -1,0 +1,20 @@
+# 독립 환경, 임시 다운로드, 로컬 설정
+.conda-envs/
+.conda-cache/
+.venv/
+venv/
+.tools/
+.env
+.env.*
+!.env.example
+.condarc
+.netrc
+*.pem
+*.key
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.py[cod]
+.codex-check-*.tmp
+Thumbs.db
+.DS_Store
